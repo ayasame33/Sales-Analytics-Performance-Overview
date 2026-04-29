@@ -12,12 +12,12 @@ This project presents an interactive dashboard for analyzing sales performance a
 - Top states by net profit
 
 ##  Tools Used
-- Power BI / Excel (حسب اللي استخدمتيه)
-- Data Visualization
-- Data Analysis
+- Excel
+- Power query & pivot tables
+- Visualization
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+(Sales Analytics & Performance Overview.png)
 
 ## Objective
 To provide clear insights that help in understanding sales behavior and support better business decisions.
